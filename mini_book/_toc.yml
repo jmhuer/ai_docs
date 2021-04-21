@@ -1,0 +1,32 @@
+# - file: README
+- file: docs/index
+- part: Introduction
+  sections:
+    - file: docs/natural-language-processing/index
+      sections:
+          - file: docs/natural-language-processing/definitions
+          - file: docs/natural-language-processing/datasets
+          - file: docs/reiforcement/index
+
+- part: GUI Usage
+  sections:
+    - file: docs/natural-language-processing/index
+      sections:
+          - file: docs/natural-language-processing/definitions
+          - file: docs/natural-language-processing/datasets
+    - file: docs/reiforcement/index
+      sections:
+          - file: docs/reiforcement/definitions
+
+
+
+- part: API Documentation
+  sections:
+    - file: docs/natural-language-processing/index
+      sections:
+          - file: docs/natural-language-processing/definitions
+          - file: docs/natural-language-processing/datasets
+    - file: docs/reiforcement/index
+      sections:
+          - file: docs/reiforcement/definitions
+
